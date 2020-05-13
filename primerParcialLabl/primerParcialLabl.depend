@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1589381572 source:e:\proyectos\primerparciallabl\primerparciallabl\autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"autos.h"
+	"menu.h"
+
+1589381629 e:\proyectos\primerparciallabl\primerparciallabl\autos.h
+
+1589381800 source:e:\proyectos\primerparciallabl\primerparciallabl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"autos.h"
+	"menu.h"
+
+1589376183 source:e:\proyectos\primerparciallabl\primerparciallabl\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"autos.h"
+	"menu.h"
+
+1589374518 e:\proyectos\primerparciallabl\primerparciallabl\menu.h
+
